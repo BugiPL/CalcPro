@@ -1,0 +1,4 @@
+﻿  Gui.cpp
+c:\users\magic\source\repos\calcpro\calcpro\gui.cpp(7): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  Gui.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CalcPRO.vcxproj -> C:\Users\Magic\source\repos\CalcPRO\Debug\CalcPRO.exe
